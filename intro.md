@@ -2,4 +2,6 @@ In the quaint town of Eldridge, nestled between rolling hills and whispering pin
 
 what to do next?
 
+Now, faced with the portal's shimmering glow, Amelia must make a choice:
+[Return to the town and explore further](amelia-town-choice.md)
 [Explore those mystical creatures](next.md)
