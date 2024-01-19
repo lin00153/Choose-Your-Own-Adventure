@@ -7,4 +7,5 @@ Now, faced with the portal's shimmering glow, Amelia must make a choice:
 [Step through the portal](beet0003choice.md)
 [Return to the town and explore further](amelia-town-choice.md)
 [Explore those mystical creatures](next.md)
+[Encounter the mystical creatures](mystical_creatures.md)
 
